@@ -3,4 +3,9 @@
     height: 70px;
     border-radius: 15px;
     margin: 5px;
+    background-color: #343A40;
+}
+
+a, a:hover{
+    color: white;
 }
